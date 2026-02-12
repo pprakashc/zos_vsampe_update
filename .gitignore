@@ -1,0 +1,22 @@
+# Common ignores
+Thumbs.db
+desktop.ini
+.DS_Store
+ehthumbs.db
+Icon\r
+
+# Node / Python / Java artifacts
+node_modules/
+__pycache__/
+*.py[cod]
+*.class
+
+# Editor and OS
+.vscode/
+*.log
+*.tmp
+*.bak
+~$*
+
+# OneDrive temporary files
+~*\n+
